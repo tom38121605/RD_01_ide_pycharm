@@ -1,0 +1,52 @@
+
+
+1. ide背景风格设置
+   方法一：  （推荐）
+   。菜单file -- settings
+   。appearance & behavior  --  appearance  -- Theme  --  选择 intelliJ Light
+
+   方法二：
+   。菜单file -- settings
+   。Editor  --  color scheme  --  scheme  --  选择 intelliJ Light
+
+   方法三：（推荐）
+   。点击右上角齿轮  --  Theme...   --  选择 intelliJ Light
+
+
+2. 查看pycharm里面关联的是那个python版本
+   。菜单file -- settings
+   。project：***   --  python interpreter  --  python interpreter   
+
+      方法一：
+      --  点击下拉列表  --  show all   --  选择自己需要的版本，如“python 3.10”--  点击 ok
+
+      方法二：
+      --  add interpreter  --  左边一列有5个选项 ，都可以选一下  --  选择自己需要的版本，如“python 3.10”--  点击 ok
+
+
+3. 打开已存在的project
+   。菜单file  -- open  -- 工程目录
+
+4.   把菜单栏显示出来
+    右键单击工具栏的空白处  --  点击 “show main menu in separate toolbar"
+
+5. 把"保存"图标放在工具栏
+    右键单击工具栏的空白处  --  点击 “add to main toolbar"  --  save all  
+
+6. 修改字体
+   。菜单file -- settings
+   。Editor  -- Font 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -8,16 +8,3 @@
     。安装python时要设置环境变量
     。pycharm要下载社区版
 
-
-2. ide背景风格设置
-   。打开pycharm的ide，点击右上角的齿轮设置settings
-   。appearance & behavior \ appearance \ Theme\ 选择 intliJ Light
-
-
-3. 查看pycharm里面关联的是那个python版本
-   。打开pycharm的ide，点击右上角的齿轮设置settings
-   。project： test_sripts \ python interpreter\ 看到是python 3.10
-
-
-
-
